@@ -1,0 +1,7 @@
+{
+  "name": "ionic-ripple-animation-overflow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
